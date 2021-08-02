@@ -28,3 +28,27 @@
 // let user = ['tayyab', '18', 'male']
 // let[name,age,gender]=user
 // console.log(name)
+
+// **********Destructuring Object**********
+
+// Old JS
+
+// let user={
+//     name: "tayyab",
+//     age: 18,
+//     male: "gender"
+// }
+
+// console.log(user.name)
+// console.log(user.age)
+
+// In ES6
+
+// let user = {
+//     name: "tayyab",
+//     age: 18,
+//     male: "gender"
+// }
+
+// let{name,age,male}=user
+// console.log(name,age)
