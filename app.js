@@ -106,3 +106,20 @@
 // }
 // let arrVal = [5, 5, 7]
 // sum(...arrVal)
+
+// *****2nd Use*****
+
+// array concatenation
+
+// Old JS
+
+// let arr1 = [1,2,3]
+// let arr2 = [4,5,6]
+// console.log(arr1 + "," + arr2)
+
+// In ES6
+
+// let arr1 = [1,2,3]
+// let arr2 = [4,5,6]
+// console.log(...arr1,...arr2)
+
