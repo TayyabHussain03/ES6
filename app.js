@@ -123,3 +123,21 @@
 // let arr2 = [4,5,6]
 // console.log(...arr1,...arr2)
 
+// *****3rd Use*****
+
+// push elements in array
+
+// Old JS
+
+// let arr1 = [1,2,3]
+// let arr2 = arr1
+// arr2.push(4,5,arr1)
+// console.log(arr2)
+// console.log(arr1)
+
+// In ES6
+
+// let arr1 = [1,2,3]
+// let arr2 = [4,5,...arr1]
+// console.log(arr2)
+// console.log(arr1)
