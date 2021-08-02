@@ -84,3 +84,25 @@
 //     console.log(a,b)
 // }
 // check(1,2,3,4,5,6,7,8)
+
+// **********Spread Opertor**********
+
+// *****1st Use*****
+
+// Old JS
+
+// function sum(a,b,c){
+//     console.log(a+b+c)
+// }
+
+// sum(5,5,6)
+
+// In ES6
+
+// for array indexing sum
+
+// function sum(a, b,c) {
+//     console.log(a + b + c)
+// }
+// let arrVal = [5, 5, 7]
+// sum(...arrVal)
