@@ -68,3 +68,19 @@
 //     console.log(a*b)
 // }
 // mult(4)
+
+// **********Rest Operator**********
+
+// Old JS
+
+// function check(a,b){
+//     console.log(a,b)
+// }
+// check(1,2,3,4,5,6,7,8)
+
+// In ES6
+
+// function check(a,...b){
+//     console.log(a,b)
+// }
+// check(1,2,3,4,5,6,7,8)
