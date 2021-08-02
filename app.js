@@ -52,3 +52,19 @@
 
 // let{name,age,male}=user
 // console.log(name,age)
+
+// **********Default Operator**********
+
+// Old JS
+
+// function mult(a,b){
+//     console.log(a*b)
+// }
+// mult(4)
+
+// In ES6
+
+// function mult(a,b=2){
+//     console.log(a*b)
+// }
+// mult(4)
