@@ -168,3 +168,11 @@
 // }
 // console.log(sub(4))
 
+// In ES6
+
+// let sub =()=>{
+//     let a = 4
+//     let b = 2
+//     return a-b
+// }
+// console.log(sub())
