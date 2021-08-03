@@ -185,3 +185,11 @@
 //         return a-b
 //     }
 //     console.log(sub())
+
+// OR
+
+// let a = 4
+// let sub = (b) => {
+//     return a - b
+// }
+// console.log(sub(9))
