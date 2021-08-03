@@ -152,3 +152,10 @@
 //     return a-b
 // }
 // console.log(sub())
+
+// OR
+
+// function sub(a,b){
+//     return a-b
+// }
+// console.log(sub(23,22))
