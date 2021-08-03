@@ -193,3 +193,10 @@
 //     return a - b
 // }
 // console.log(sub(9))
+
+// OR
+
+// let a = 4
+// let b = 2
+// let sub = () => a - b
+// console.log(sub())
