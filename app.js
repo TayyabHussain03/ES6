@@ -159,3 +159,12 @@
 //     return a-b
 // }
 // console.log(sub(23,22))
+
+// OR
+
+// let a=99
+// function sub(b){
+//     return a-b
+// }
+// console.log(sub(4))
+
