@@ -141,3 +141,14 @@
 // let arr2 = [4,5,...arr1]
 // console.log(arr2)
 // console.log(arr1)
+
+// **********Arrow Function**********
+
+// Old Js
+
+// function sub(){
+//     let a = 56
+//     let b = 20
+//     return a-b
+// }
+// console.log(sub())
