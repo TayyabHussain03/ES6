@@ -176,3 +176,12 @@
 //     return a-b
 // }
 // console.log(sub())
+
+// OR
+
+// let b = 2
+// let sub =()=>{
+//         let a = 4
+//         return a-b
+//     }
+//     console.log(sub())
