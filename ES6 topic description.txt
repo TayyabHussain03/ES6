@@ -21,3 +21,15 @@ Spread operator is the same as the Rest parameter but it works completely opposi
 
 5) Arrow Functions:  ES6 fat arrow functions have a shorter syntax compared to function expressions and lexically bind this value. Arrow 
 functions are always anonymous and effectively turn function (arguments) { expression } into arguments fat arrow symbol expression.
+
+6) Promise:A Promise has Three states:
+           fulfilled: Action related to the promise succeeded.
+           rejected: Action related to the promise failed.
+           pending: Promise is still pending i.e not fulfilled or rejected yet.
+Promises can be consumed by registering functions using .then and .catch methods.
+
+then()
+then() is invoked when a promise is either resolved or rejected.
+
+catch()
+catch() is invoked when a promise is either rejected or some error has occurred in execution
