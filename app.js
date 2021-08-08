@@ -200,3 +200,21 @@
 // let b = 2
 // let sub = () => a - b
 // console.log(sub())
+
+// **********Promise**********
+
+// let getData = () => {
+//     return new Promise((resolve, reject) => {
+//         setTimeout(() => {
+//             if (true) {
+//                 resolve(alert("Hello World"))
+//             } else {
+//                 reject("error agaya")
+//             }
+//         }, 8000)
+//     })
+// }
+
+// getData()
+//     .then(res => console.log("then===>",res))
+//     .catch(err => console.log("catch==>",err))
